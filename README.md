@@ -1,4 +1,4 @@
-# Rider
+# Rider Co. By Prashant Saini
 
 # [Live Demo](http://13.51.117.99:8080/NewRider/)
 
