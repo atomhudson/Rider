@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="Clinton Nkwocha">
+  <meta name="description"
+    content="Rider is a carpooling application that provides drivers with the ability to create ride offers and passengers to join available ride offers.">
+  <meta name="keywords" content="rider, carpool, carpooling, car, pool, offer ride">
+  <meta name="language" content="English">
+  <meta name="theme-color" content="#2c3e50">
+  <meta name="viewport" content="width=device-width">
+  <title>Rider | Live, Ride, Share</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&family=Roboto+Mono:ital,wght@1,100&display=swap"
+    rel="stylesheet">
+  <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="./css/reset.min.css" type="text/css">
+  <link rel="stylesheet" href="./css/style.css" type="text/css">
+</head>
+
+<body>
+  <div id="container">
+    <nav id="navbar">
+      <a href="#"><img src="./images/rider-big.png" alt="rider-logo" title="Rider | Live, Ride, Share"></a>
+      <input type="checkbox" id="burger-toggle">
+      <label id="burger" for="burger-toggle">
+        <div></div>
+      </label>
+      <ul>
+        <li>
+          <a href="#" class="shortcut">Home</a>
+        </li>
+        <li>
+          <a href="./html/create-ride-offer.html" class="shortcut">Offer Ride</a>
+        </li>
+        <li>
+          <a href="./html/signup.html" class="shortcut">Sign Up</a>
+        </li>
+        <li>
+          <a href="./html/login.html" class="shortcut">Log In</a>
+        </li>
+      </ul>
+    </nav>
+    <section id="wrap">
+      <main>
+        <h1>RIDER</h1>
+        <p>Carpooling shouldn't be that hard, right?</p>
+        <form action="#" method="GET">
+          <input type="text" name="departure" placeholder="Departure"
+            title="Tip: Use the nearest bus stop to you for optimal results." required>
+          <input type="text" name="destination" placeholder="Destination"
+            title="Tip: Use the nearest bus stop to your destination for optimal results." required>
+          <input type="date" name="date" value="2024-04-09" required>
+          <input type="submit" value="Search rides" class="pill">
+        </form>
+      </main>
+    </section>
+
+    <!-- Section 2 -->
+    <section class="more">
+      <h2>Why Rider?</h2>
+      <div class="description" id="description-one">
+        <div class="image-box"></div>
+        <div class="word-box">
+          <p>Rider is a carpooling application that provides drivers with the ability to <a
+              href="./html/create-ride-offer.html" class="shortcut">create ride offers</a> and passengers to join
+            available ride offers.</p>
+          <p>With Rider, you get to optimize the use of your ride, save fuel, money, time and most of all: you get to
+            share! <a href="./html/signup.html" class="shortcut">Sign up</a> now to see how easy carpooling can be.
+            Seriously <a href="./html/signup.html" class="shortcut">sign up</a> now.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2 -->
+    <section class="more">
+      <h2>Grab The Wheel!</h2>
+      <div class="description" id="description-two">
+        <div class="image-box"></div>
+        <div class="word-box">
+          <p>Getting started with Rider is as easy as just one click. All you have to do is <a href="./html/signup.html"
+              class="shortcut">sign up</a>, <a href="./html/create-ride-offer.html" class="shortcut">create a ride
+              offer</a> (if you want to offer a ride) and wait for requests.</p>
+          <p>After creating a ride offer, you recieve requests from people who would like to ride with you, you can
+            either accept or reject them and you're done.</p>
+          <p>See, it's that easy. <a href="./html/signup.html" class="shortcut">Sign up</a> now to ride your way!</p>
+        </div>
+      </div>
+      <div id="btn-wrap">
+        <a href="./html/signup.html" class="pill">Sign up</a>
+        <a href="./html/login.html" class="pill">Log in</a>
+      </div>
+    </section>
+
+    <section class="scam">
+      <div class="scam-description" id="description-one-scam">
+          <div class="image-scam"></div>
+          <div class="scam-box">
+              <h2>Your safety is our priority</h2>
+              <p>At BlaBlacar, we're working hard to make our platform as secure as it can be. but when scams do happen, we want you to know exactly how to avoid and report them. Follow our tips to help us keep you safe.</p>
+              <div class="button-wrapper">
+                  <input type="button" value="Learn more">
+              </div>
+          </div>
+      </div>
+  </section>
+  
+
+
+    <!-- Cards -->
+    <div class="cards">
+      <div class="container">
+        <div class="card">
+          <img src="./images/security.png" alt="Security Icon">
+          <h2>Secure Rides</h2>
+          <p>Our platform ensures the safety and security of both drivers and passengers through thorough background
+            checks and user verification processes.</p>
+        </div>
+        <div class="card">
+          <img src="./images/trust.png" alt="Trust Icon">
+          <h2>Trustworthy Service</h2>
+          <p>With our community-based rating system and user reviews, you can trust that you're sharing rides with
+            reliable and respectful individuals.</p>
+        </div>
+        <div class="card">
+          <img src="./images/convenience.png" alt="Convenience Icon">
+          <h2>Convenient Booking</h2>
+          <p>Booking a ride is quick and easy with our intuitive app. Find nearby drivers, schedule rides in advance,
+            and enjoy hassle-free travel.</p>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <span>&copy; 2024 Rider</span>
+      <span>Made by <a href="github.com/atomhudson" target="_blank" rel="noopener">Prashant Saini</a></span>
+    </footer>
+  </div>
+</body>
+
+</html>
