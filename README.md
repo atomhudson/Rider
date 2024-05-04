@@ -8,7 +8,7 @@
 
 # [If you want work on backend only and want only the frontend part here it is: ](https://github.com/atomhudson/Rider/tree/main/template)
 
-# [**Very Important Note: For Some Changes you have to see the impro.pdf file.**](https://github.com/atomhudson/Rider/blob/main/impro.pdf)
+# [**Very Important Note: For Some Changes you have to see the important.pdf file.**](https://github.com/atomhudson/Rider/blob/main/important.pdf)
 
 ### Carpooling Management System Overview:
 - **Definition**: Carpooling management system is a software platform that facilitates the organization and coordination of carpooling services, allowing users to share rides for commuting or travel purposes.
