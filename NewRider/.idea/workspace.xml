@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bc9ca9c-8e73-4306-85fa-3edbb0c666ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Accept_Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Accept_Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/AdminDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/AdminDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Admin_Search_Rides.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Admin_Search_Rides.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/ChangePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/ChangePassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Check_Requests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Check_Requests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Create_Ride_Offer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Create_Ride_Offer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/DAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Delete_Ride_Created.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Delete_Ride_Created.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Otp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Otp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Reject_Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Reject_Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/RideDetailBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/RideDetailBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Ride_Given.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Ride_Given.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Ride_Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Ride_Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Ride_Taken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Ride_Taken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Same_Person_To_Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Same_Person_To_Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Search_Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Search_Ride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Search_Ride_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Search_Ride_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/Signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/Signup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Rider/SignupDetailBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Rider/SignupDetailBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/ride_created_details.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/ride_created_details.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/ride_given_request_accepted.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/ride_given_request_accepted.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/ride_requests.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/ride_requests.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/ride_status.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/ride_status.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/ride_taken.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/ride_taken.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/rider.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/rider.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/rider_profile.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/rider_profile.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/rider_profile_request.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/rider_profile_request.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gEG1n5VoCiRGSBcp7xrx4jOA7C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/NewRider"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bc9ca9c-8e73-4306-85fa-3edbb0c666ad" name="Changes" comment="" />
+      <created>1715255111288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715255111288</updated>
+    </task>
+    <servers />
+  </component>
+</project>
