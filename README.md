@@ -6,7 +6,7 @@
 
 # [How to deploy J2EE Web Application project](https://youtu.be/f0ADg_3FpSU?si=DxmveOPeLI_IBt54)
 
-# [If you want work on backend only and want only the frontend part here it is: ](https://github.com/atomhudson/Rider/tree/main/template)
+# [If you want to work on backend only and want only the frontend part here it is: ](https://github.com/atomhudson/Rider/tree/main/template)
 
 # [**Very Important Note: For Some Changes you have to see the important.pdf file.**](https://github.com/atomhudson/Rider/blob/main/important.pdf)
 
